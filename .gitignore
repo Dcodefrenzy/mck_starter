@@ -1,0 +1,7 @@
+.vagrant/
+Vagrantfile
+.env/
+.git/
+mckodev.box
+www/phpmyadmin
+ubuntu-bionic-18.04-cloudimg-console.log
