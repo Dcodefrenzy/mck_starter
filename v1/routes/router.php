@@ -38,6 +38,9 @@ if (count($uri) > 2) {
     case 'test?'.$query_string:
       include APP_PATH."/views/test.php";
       break;
+    case 'brand-register':
+      include APP_PATH. "/views/brand_register.php";
+      break;
   }
 
 }
